@@ -1,0 +1,19 @@
+Navegabilidade:
+-Link quebrado (America Latina / Nacionais - fotos)
+
+Semântica HTML5:
+- O logo deve ser dentro de header;
+- Não é necessario usar "type="text/css" no link css;
+
+Formatação do Codigo:
+- Boa identação;
+- Tag <dr> não reconhecida na pagina "Quem somos" 
+
+Estrutura CSS:
+- Boa construção com uso de classes;
+- O posicionamento de body em relação ao html não ficou boa, deveria ser utilizado um box menor para não rolar
+a barra na parte de baixo da pagina. 
+
+Obs Gerais:
+- No head poderia ser colocado as palavras-chaves e descrição do site;
+- No geral um melhor posicionameno deixaria o site melhor para navegação.
